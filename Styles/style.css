@@ -1,0 +1,17 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    background-image: url("../Images/semi-circle.png");
+    background-size: 600px 280px;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+:root{
+    --blueColor : #36C5F0;
+    --greenColor : #2EB67D;
+    --yellowColor : #ECB22E;
+    --redColor : #E01E5A;
+}
+*, *::after, *::before{
+    box-sizing: border-box;
+}
